@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="tttt">
+        <attr name="mHeight" format="integer"/>
+        <attr name="mWidth" format="integer"/>
+        <attr name="mName" format="string"/>
+        <attr name="sex" format="enum">
+            <enum name="man" value="0"></enum>
+            <enum name="woman" value="1"></enum>
+        </attr>
+        <attr name="student" format="boolean"></attr>
+    </declare-styleable>
+</resources>
